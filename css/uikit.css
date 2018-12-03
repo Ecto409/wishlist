@@ -12,7 +12,7 @@ html {
   /* 1 */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
-  font-weight: light;
+  font-weight: lighter;
   line-height: 1.5;
   /* 2 */
   -webkit-text-size-adjust: 100%;
@@ -266,7 +266,7 @@ h6,
 .uk-h6 {
   margin: 0 0 20px 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-weight: light;
+  font-weight: lighter;
   color: #222;
   text-transform: none;
 }
@@ -2503,6 +2503,7 @@ select.uk-form-width-xsmall {
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
+  margin-top: 30px;
 }
 
 /* Phone landscape and bigger */

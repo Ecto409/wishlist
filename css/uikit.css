@@ -967,9 +967,9 @@ a.uk-link-reset:hover,
   vertical-align: bottom;
   /* 1 */
   font-size: 0.875rem;
-  font-weight: normal;
-  color: #999;
-  text-transform: uppercase;
+  font-weight: bolder;
+  color: rgb(247, 229, 229);
+  text-transform: capitalize;
 }
 
 /* Cell
